@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset=" utf -8">
+        <title>Тестовый тату-сайт</title>
+    </head>
+    <body>
+        <img src="images/tatoo-logo.png" alt="Логотип сайта"/>
+        <p>Тут у меня разыгралась фантазия и я мог бы рассказать обо всей истории нашей студии, но решил что более лаконично будет просто сказать что мы - лучшее что вы могли бы найти и можете убедиться в этом просто написав нам!</p>
+        <p>Вы могли увидеть наши рыботы на многих людях которых вы видете ежемесячно</p>
+        <ul>
+            <li>на своих барберах или парикмахерах</li>
+            <li>врача или докторах</li>
+            <li>и наконец на своих преподавателях или даже друзьях</li>
+        </ul>
+        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjTyPLTgqWXAxVsQlUIHUA1Hk0QFnoECBwQAQ&url=https%3A%2F%2Ftattoo-77.ru%2Fcatalog%2Ftattoo%2Fstili-tattoo%2F&usg=AOvVaw0vnW-4B8FqTUlrWD99pNfd&opi=89978449>Наши работы</a>"
+
+    </body>
+</html>

@@ -1,0 +1,26 @@
+<!doctype html>
+<html> 
+    <link href="https://fonts.googleapis.com/css2?family=Trocchi&display=swap" rel="stylesheet">
+    <head>
+        <link href="styles/text-style.css.txt" rel="stylesheet" type="text/css" />
+        <meta charset=" utf -8">
+        <title>Тестовый тату-сайт</title>
+    </head>
+    <body>
+        <h1>Tatoo studio</h1>
+        <link href="styles/text-color-ul.css.txt" rel="stylesheet" type="text/css" />
+        <img src="images/tatoo-logo.png" alt="Логотип сайта"/>
+        <link href="styles/text-man.css.txt" rel="stylesheet" type="text/css" />
+        <p>Тут у меня разыгралась фантазия и я мог бы рассказать обо всей истории нашей студии, но решил что более лаконично будет просто сказать что мы - лучшее что вы могли бы найти и можете убедиться в этом просто написав нам!</p>
+        <p>Вы могли увидеть наши рыботы на многих людях которых вы видете ежемесячно</p>
+        <ul>
+            <li>на своих барберах или парикмахерах</li>
+            <li>врача или докторах</li>
+            <li>и наконец на своих преподавателях или даже друзьях</li>
+        </ul>
+        <a href="https://justdotattoo.ru/gallery/">Наши работы</a>
+
+        <button>Enter your name</button>
+        <script src="scripts/main.js"></script>
+    </body>
+</html>

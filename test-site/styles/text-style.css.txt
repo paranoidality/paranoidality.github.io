@@ -1,0 +1,31 @@
+html {
+font-size: 10px;
+font-famile: placeholder: "Trocchi" serif;
+background-color: #ffffff38;
+}
+
+body{
+width: 620px;
+margin: 0 auto;
+background-color: #1A1A1A;
+padding: 0 20px 20px 20px;
+border: 5px solid black;
+}
+
+h1{
+margin: 0;
+padding: 20px 0;
+color: #E53935;
+text-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+li{
+margin: 0;
+padding: 20 px 0;
+li: hover;
+}
+
+img{
+display: block;
+margin: 0 auto;
+}
